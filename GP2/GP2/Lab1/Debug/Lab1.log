@@ -1,6 +1,14 @@
-﻿  MainCodeOfGame.cpp
+﻿  GameAudioSource.cpp
+  GameDisplay.cpp
+  main.cpp
+  MainCodeOfGame.cpp
+  MeshCreationClass.cpp
+C:\Users\BigSc\OneDrive\Desktop\GP2-assessment\GP2\GP2\Lab1\MeshCreationClass.cpp(63,15): warning C4930: 'SphereStruct meshSphere(void)': prototyped function not called (was a variable definition intended?)
+  LoadObject.cpp
+C:\Users\BigSc\OneDrive\Desktop\GP2-assessment\GP2\GP2\Lab1\LoadObject.cpp(378,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
   ShaderCreationClass.cpp
   TextureCreationClass.cpp
-  main.cpp
   Generating Code...
-  Lab1.vcxproj -> D:\University Files\Trimester A\Games Programming 2\GP2\GP2\Debug\Lab1.exe
+  stb_image.c
+  LINK : C:\Users\BigSc\OneDrive\Desktop\GP2-assessment\GP2\GP2\Debug\Lab1.exe not found or not built by the last incremental link; performing full link
+  Lab1.vcxproj -> C:\Users\BigSc\OneDrive\Desktop\GP2-assessment\GP2\GP2\Debug\Lab1.exe
